@@ -5,5 +5,8 @@ public class NewJava {
         System.out.println("Hello World");
         System.out.println("새로운 자바");
         System.out.println("새로운 자바의 꿈");
+        System.out.println("새로운 자바의 꿈");
+        System.out.println("새로운 자바의 꿈");
+        System.out.println("새로운 자바의 꿈");
     }
 }
